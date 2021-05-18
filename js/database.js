@@ -2,7 +2,7 @@
 var home = {
     "Beranda": {
         "judul": "Giveaway dimulai!",
-        "deskripsi": "Youtube Premium(1 Tahun//6 Bulan// 1Bulan) pendaftaran ditutup pada 21 Mei 2001"
+        "deskripsi": "Youtube Premium(1 Tahun//6 Bulan// 1Bulan) pendaftaran ditutup pada 21 Mei 2021"
     },
 }
 
