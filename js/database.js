@@ -1,14 +1,14 @@
 //<![CDATA[
 var home = {
     "Beranda": {
-        "judul": "Giveaway dimulai!",
-        "deskripsi": "Youtube Premium(1 Tahun//6 Bulan// 1Bulan) pendaftaran ditutup pada 21 Mei 2021"
+        "judul": "Giveaway Youtube<br>Premium!",
+        "deskripsi": "Sesi pendaftaran telah berakhir & Pemenang Giveaway akan diumumkan sesegera mungkin."
     },
 }
 
-var giveaway = "buka"; // buka, selesai, tutup
+var giveaway = "tutup"; // buka, selesai, tutup
 var tipe = "digital"; // barang, digital
-var pendaftaran = "buka"; //buka, tutup
+var pendaftaran = "tutup"; //buka, tutup
 
 var provinsi = [
     "Aceh", 
