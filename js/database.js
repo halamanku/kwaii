@@ -1,12 +1,12 @@
 //<![CDATA[
 var home = {
     "Beranda": {
-        "judul": "Giveaway Youtube<br>Premium!",
-        "deskripsi": "Sesi pendaftaran telah berakhir & Pemenang Giveaway akan diumumkan sesegera mungkin."
+        "judul": "Pengumuman Giveaway!",
+        "deskripsi": "Sebelumnya saya minta maaf karena slot YT Prmiumnya sudah habis, jadi saya ganti dengan Top-Up Game."
     },
 }
 
-var giveaway = "tutup"; // buka, selesai, tutup
+var giveaway = "selesai"; // buka, selesai, tutup
 var tipe = "digital"; // barang, digital
 var pendaftaran = "tutup"; //buka, tutup
 
