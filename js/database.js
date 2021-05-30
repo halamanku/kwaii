@@ -1,7 +1,7 @@
 //<![CDATA[
 var home = {
     "Beranda": {
-        "judul": "Mau ikutan<br>Giveaway!",
+        "judul": "Mau ikutan<br>Giveaway?",
         "deskripsi": "Ikuti Profile Facebook Kwaii tentang update informasi giveaway terbaru!."
     },
 }
