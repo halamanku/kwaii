@@ -1,12 +1,12 @@
 //<![CDATA[
 var home = {
     "Beranda": {
-        "judul": "Pengumuman Giveaway!",
-        "deskripsi": "Sebelumnya saya minta maaf karena slot YT Prmiumnya sudah habis, jadi saya ganti dengan Top-Up Game."
+        "judul": "Mau ikutan<br>Giveaway!",
+        "deskripsi": "Ikuti Profile Facebook Kwaii tentang update informasi giveaway terbaru!."
     },
 }
 
-var giveaway = "selesai"; // buka, selesai, tutup
+var giveaway = "tutup"; // buka, selesai, tutup
 var tipe = "digital"; // barang, digital
 var pendaftaran = "tutup"; //buka, tutup
 
